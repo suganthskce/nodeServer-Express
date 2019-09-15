@@ -1,0 +1,26 @@
+{
+  "name": "node-server-express",
+  "version": "1.0.0",
+  "description": "Sample Node server with Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suganthskce/nodeServer-Express.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Suganth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suganthskce/nodeServer-Express/issues"
+  },
+  "homepage": "https://github.com/suganthskce/nodeServer-Express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
